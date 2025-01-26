@@ -11,7 +11,7 @@ const menuData: Menu[] = [
     id: 2,
     title: "Packages",
     newTab: false,
-    path: "/pricing",
+    path: "/error",
   },
   {
     id: 2.1,
