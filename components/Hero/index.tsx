@@ -36,14 +36,14 @@ const Hero = () => {
                       value={email}
                       onChange={(e) => setEmail(e.target.value)}
                       type="text"
-                      placeholder="Enter your email address"
+                      placeholder=" 📍Pickup postcode"
                       className="rounded-full border border-stroke px-6 py-2.5 shadow-solid-2 focus:border-primary focus:outline-none dark:border-strokedark dark:bg-black dark:shadow-none dark:focus:border-primary"
                     />
                     <button
                       aria-label="get started button"
                       className="flex rounded-full bg-black px-7.5 py-2.5 text-white duration-300 ease-in-out hover:bg-blackho dark:bg-btndark dark:hover:bg-blackho"
                     >
-                      Get Started
+                      GET PRICES
                     </button>
                   </div>
                 </form>
