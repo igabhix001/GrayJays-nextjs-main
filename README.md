@@ -1,5 +1,7 @@
-Npm install 
 
+```bash
+    npm install
+ ```
 You can start the project on the local server
     
 ```bash
