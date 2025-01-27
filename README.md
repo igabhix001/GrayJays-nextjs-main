@@ -1,4 +1,4 @@
- 
+Npm install 
 
 You can start the project on the local server
     
